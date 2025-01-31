@@ -29,3 +29,11 @@ Non colliding paths determined are as:
 3. Print at every instance the estimated time and distance to complete the mission.
 4. Plot the path of travel in 2D
 
+### Proposed Solution:
+Sharing the video [link](https://youtu.be/tSHq0AEK0hw) showing the drone take off, travel the given waypoints and land at last waypoint.
+
+Due to some time constraints, I could not complete the setup of mavlink on ubuntu 20.04 completely, so I am sharing code file which I created during the Eyantra'21 competition. 
+In this competition, our problem statement had of a team of multiple autonomous drones, tasked with identifying and picking boxes from in-between the strawberry rows and then stacking them in a palletized form onto two parked flatbed trucks. 
+To develop suitable solution for given problem, we used PX4 Autopilot,Mavlink ecosystem for controlling the UAV, Gazebo for the simulated farm, and ROS for integrating various aspects of autonomy required in the solution.
+
+
