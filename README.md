@@ -28,3 +28,4 @@ Non colliding paths determined are as:
 2. Now using Dronekit or pymavlink, plan a mission in auto mode using these waypoints (quadcopter). Drone should land at last waypoint.
 3. Print at every instance the estimated time and distance to complete the mission.
 4. Plot the path of travel in 2D
+
